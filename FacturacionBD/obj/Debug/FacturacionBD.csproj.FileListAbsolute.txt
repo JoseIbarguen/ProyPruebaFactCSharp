@@ -1,0 +1,13 @@
+D:\FacturacionBD\FacturacionBD\bin\Debug\FacturacionBD.exe.config
+D:\FacturacionBD\FacturacionBD\bin\Debug\FacturacionBD.exe
+D:\FacturacionBD\FacturacionBD\bin\Debug\FacturacionBD.pdb
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.csprojAssemblyReference.cache
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.Frmbase.resources
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.Frmvalidarusuario.resources
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.MDIPrincipal.resources
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.Properties.Resources.resources
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.csproj.GenerateResource.cache
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.csproj.CoreCompileInputs.cache
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.exe
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.pdb
+D:\FacturacionBD\FacturacionBD\obj\Debug\FacturacionBD.Frmseguridad.resources
